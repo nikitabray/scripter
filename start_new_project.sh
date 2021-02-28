@@ -1,3 +1,4 @@
+cd ~
 read -p "Name of the project: " prname
 read -p "Python version: " python
 virtenv_name=${prname}
